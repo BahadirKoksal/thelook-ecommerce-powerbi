@@ -265,5 +265,3 @@ thelook-ecommerce-powerbi/
 ---
 
 
-
-*This project is for educational purposes. The Look dataset simulates a fictional e-commerce scenario.*
